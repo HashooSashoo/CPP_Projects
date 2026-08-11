@@ -1,7 +1,7 @@
 [
 {
   "directory": "/Users/ZHash/Desktop/Computer Science/CPP_Projects/build",
-  "command": "/usr/bin/clang++ -g -std=gnu++20 -arch arm64 -o CMakeFiles/MyProject.dir/src/main.cpp.o -c \"/Users/ZHash/Desktop/Computer Science/CPP_Projects/first_project/src/main.cpp\"",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wshadow -Wconversion -Wsign-conversion -pedantic-errors -Werror -o CMakeFiles/MyProject.dir/src/main.cpp.o -c \"/Users/ZHash/Desktop/Computer Science/CPP_Projects/first_project/src/main.cpp\"",
   "file": "/Users/ZHash/Desktop/Computer Science/CPP_Projects/first_project/src/main.cpp",
   "output": "/Users/ZHash/Desktop/Computer Science/CPP_Projects/build/CMakeFiles/MyProject.dir/src/main.cpp.o"
 }
