@@ -1,0 +1,3 @@
+/Users/ZHash/Desktop/Computer Science/CPP_Projects/build/CMakeFiles/MyProject.dir
+/Users/ZHash/Desktop/Computer Science/CPP_Projects/build/CMakeFiles/edit_cache.dir
+/Users/ZHash/Desktop/Computer Science/CPP_Projects/build/CMakeFiles/rebuild_cache.dir
