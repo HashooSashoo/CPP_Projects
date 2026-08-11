@@ -52,7 +52,7 @@ build cmake_object_order_depends_target_MyProject: phony || .
 build CMakeFiles/MyProject.dir/src/main.cpp.o: CXX_COMPILER__MyProject_unscanned_Debug /Users/ZHash/Desktop/Computer$ Science/CPP_Projects/first_project/src/main.cpp || cmake_object_order_depends_target_MyProject
   CONFIG = Debug
   DEP_FILE = CMakeFiles/MyProject.dir/src/main.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wshadow -Wconversion -Wsign-conversion -pedantic-errors -Werror
+  FLAGS = -g -std=c++20 -arch arm64 -Wall -Wextra -Wshadow -Wconversion -Wsign-conversion -pedantic-errors -Werror
   OBJECT_DIR = CMakeFiles/MyProject.dir
   OBJECT_FILE_DIR = CMakeFiles/MyProject.dir/src
   TARGET_SUPPORT_DIR = CMakeFiles/MyProject.dir

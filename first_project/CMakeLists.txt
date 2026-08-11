@@ -3,6 +3,7 @@ project(MyProject)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)   # forces -std=c++20 instead of -std=gnu++20
 
 add_executable(MyProject src/main.cpp)
 
